@@ -1,0 +1,3 @@
+Informatique : salaire moyen = 750000.0
+RH : salaire moyen = 325000.0
+Marketing : salaire moyen = 400000.0
